@@ -1,0 +1,10 @@
+.vscode
+node_modules
+logs
+result
+result_bakup
+files/beta
+files/prod
+files/prodall
+config/default.json
+config/production.json

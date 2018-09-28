@@ -1,0 +1,23 @@
+{
+  "name": "ttm-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node index.js demo",
+    "beta": "node index.js beta",
+    "prod": "set NODE_ENV=production&&node index.js prod",
+    "prodall": "set NODE_ENV=production&&node index.js prodall 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "config": "^2.0.1",
+    "csv-parse": "^3.0.0",
+    "moment": "^2.22.2",
+    "mysql2": "^1.6.1",
+    "winston": "^3.1.0"
+  }
+}

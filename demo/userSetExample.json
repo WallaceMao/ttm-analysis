@@ -1,0 +1,13 @@
+[
+    {"id": "u-1", "teamId": "t-1", "suId": null},
+    {"id": "u-2", "teamId": "t-1", "suId": "s-3"},
+    {"id": "u-3", "teamId": "t-1", "suId": "s-1"},
+    {"id": "u-4", "teamId": "t-1", "suId": "s-2"},
+    {"id": "u-5", "teamId": "t-3", "suId": "s-1"},
+    {"id": "u-6", "teamId": null, "suId": "s-1"},
+    {"id": "u-7", "teamId": "t-2", "suId": "s-2"},
+    {"id": "u-8", "teamId": "t-2", "suId": "s-4"},
+    {"id": "u-9", "teamId": "t-2", "suId": null},
+    {"id": "u-10", "teamId": "t-10", "suId": "s-10"},
+    {"id": "u-11", "teamId": "t-10", "suId": null}
+]
